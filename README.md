@@ -25,4 +25,4 @@ ArticleManager is a RESTful API built with Django and Django REST Framework (DRF
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/yourusername/ArticleManager.git
+git clone https://github.com/Medamineelkhattabi/Django-REST-API.git
